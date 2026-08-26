@@ -2,6 +2,6 @@
 ## Dependências
 Python 3.14.6 ou superior e Ollama.
 ## AVISO MUITO IMPORTANTE
-Este software só funciona no Windows 10/11 e pode baixar softwares, bibliotecas e modelos de linguagem automáticamente.
+Este software só funciona no Windows 10 ou superior e pode baixar softwares, bibliotecas e modelos de linguagem automáticamente.
 ## Lançamento
 Este software ainda não foi lançado e poderá ser ser testado em breve.
